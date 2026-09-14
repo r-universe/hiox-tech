@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ivdtools"]
 	path = ivdtools
-	url = https://github.com/cran/ivdtools
+	url = https://github.com/hiox-tech/ivdtools
